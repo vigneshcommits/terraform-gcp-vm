@@ -10,7 +10,6 @@ variable "image_name" {
 }
 
 variable "machine_type" {
-    default = "e2-medium"
     type = string
 }
 
